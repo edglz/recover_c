@@ -1,3 +1,4 @@
+// Author: Eduardo Gonzalez.
 #include <stdio.h>
 #include <math.h>
 #include <string.h>
